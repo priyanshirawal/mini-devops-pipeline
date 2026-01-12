@@ -1,6 +1,6 @@
 # Mini DevOps Pipeline
 
-## 🚀 Project Overview
+## Project Overview
 This is a **Mini DevOps Pipeline project** built using **Bash scripts**, **Docker**, and **Nginx**.  
 It demonstrates how a simple CI/CD look like: 
 
@@ -9,7 +9,7 @@ It demonstrates how a simple CI/CD look like:
 3. **Monitor** – Check if Nginx is running and restart if necessary.  
 4. **Pipeline** – Automate the above steps using a single `pipeline.sh` script.  
 
-## 📁 Project Structure
+## Project Structure
 myapp/
 ├── index.html # HTML app to display in browser
 ├── build.sh # Builds the app into a build folder
@@ -19,7 +19,7 @@ myapp/
 └── Dockerfile # Docker configuration for Nginx container
 
 There are some pre-requisite, in case you dont have them in your pc :-
-## ⚡ Prerequisites
+## Prerequisites
 - WSL (Ubuntu) or Linux environment  
 - Docker installed and running  
 - Git (for version control, optional)
