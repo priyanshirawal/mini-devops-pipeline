@@ -24,7 +24,7 @@ There are some pre-requisite, in case you dont have them in your pc :-
 - Docker installed and running  
 - Git (for version control, optional)
 - 
-## 🛠 Setup Instructions
+## Setup Instructions
 
 ## YOU CAN ALSO Clone the repository (optional); 
 bash
