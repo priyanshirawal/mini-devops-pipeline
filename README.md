@@ -43,12 +43,13 @@ In bash
 1. git clone https://github.com/<your-username>/Mini-DevOps-Pipeline.git
 cd Mini-DevOps-Pipeline 
 
-2. MAKE SCRIPTS EXECUTABLE :- 
+2. MAKE SCRIPTS EXECUTABLE :-
+   
 chmod +x *.sh
 
-3. BUILD AND RUN THE PIPELINE :-
-   
-./pipeline.sh
+4. BUILD AND RUN THE PIPELINE :-
+
+ ./pipeline.sh
 
 NOW, WHAT WILL THIS CMD DID TO YOUR SCRIPT.
 
