@@ -35,7 +35,7 @@ There are some pre-requisite, in case you dont have them in your pc :-
 
 #### YOU CAN ALSO Clone the repository (optional); 
 bash
-git clone https://github.com/<your-username>/Mini-DevOps-Pipeline.git
+1. git clone https://github.com/<your-username>/Mini-DevOps-Pipeline.git
 cd Mini-DevOps-Pipeline 
 
 2. MAKE SCRIPTS EXECUTABLE :- 
