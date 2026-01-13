@@ -26,7 +26,7 @@ There are some pre-requisite, in case you dont have them in your pc :-
 - 
 ## Setup Instructions
 
-## YOU CAN ALSO Clone the repository (optional); 
+### YOU CAN ALSO Clone the repository (optional); 
 bash
 git clone https://github.com/<your-username>/Mini-DevOps-Pipeline.git
 cd Mini-DevOps-Pipeline 
