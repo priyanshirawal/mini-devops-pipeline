@@ -10,12 +10,19 @@ It demonstrates how a simple CI/CD look like:
 4. **Pipeline** – Automate the above steps using a single `pipeline.sh` script.  
 
 ## Project Structure
+
 myapp/
+
 ├── index.html # HTML app to display in browser
+
 ├── build.sh # Builds the app into a build folder
+
 ├── deploy.sh # Deploys app using Docker/Nginx
+
 ├── monitor.sh # Monitors the deployment
+
 ├── pipeline.sh # Automates build → deploy → monitor
+
 └── Dockerfile # Docker configuration for Nginx container
 
 There are some pre-requisite, in case you dont have them in your pc :-
@@ -23,10 +30,10 @@ There are some pre-requisite, in case you dont have them in your pc :-
 - WSL (Ubuntu) or Linux environment  
 - Docker installed and running  
 - Git (for version control, optional)
-- 
+
 ## Setup Instructions
 
-### YOU CAN ALSO Clone the repository (optional); 
+#### YOU CAN ALSO Clone the repository (optional); 
 bash
 git clone https://github.com/<your-username>/Mini-DevOps-Pipeline.git
 cd Mini-DevOps-Pipeline 
