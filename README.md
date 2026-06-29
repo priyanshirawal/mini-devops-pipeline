@@ -73,5 +73,16 @@ This will:
   
 AT LAST, ALL YOU WANT TO DO IS TO REFRESH THE BROWSER TO SEE UPDATED CONTENT 
 
+## What I Learned
+
+Through this project I learned:
+
+- How to automate repetitive deployment tasks using Bash scripts.
+- How Docker containers package and deploy applications.
+- How Nginx serves web content inside a containerized environment.
+- How monitoring scripts can help maintain service availability.
+- How individual tasks can be combined into a simple CI/CD workflow.
+
+While simple in scope, this project provided a practical introduction to DevOps principles and laid the foundation for learning CI/CD, containerization, and deployment automation.
 
 
